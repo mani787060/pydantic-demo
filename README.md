@@ -164,4 +164,3 @@ Structured LLM outputs can support:
 Pydantic provides a clear way to define and validate the structure of data used in Python applications. When combined with compatible LLM integrations, it can make AI-generated outputs easier to process and integrate into software systems.
 
 This project provides a foundation for building more structured and maintainable Generative AI applications.
-
