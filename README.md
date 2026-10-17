@@ -165,12 +165,3 @@ Pydantic provides a clear way to define and validate the structure of data used 
 
 This project provides a foundation for building more structured and maintainable Generative AI applications.
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-
----
-
-*Part of a hands-on learning journey into Generative AI, LangChain, and reliable LLM application development.*
